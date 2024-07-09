@@ -3,4 +3,6 @@ venv
 .env
 
 data/images/*
+data/Images/*
+models
 
