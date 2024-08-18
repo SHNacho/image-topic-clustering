@@ -2,6 +2,7 @@
 venv
 .env
 
+*.zip
 data/images/*
 data/Images/*
 models
